@@ -1,0 +1,53 @@
+body{
+  background-color: antiquewhite;
+}
+.banner{
+  height: 100px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title{
+  background-color: lightblue;
+  text-align: center;
+  color: rgb(204, 148, 45);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-style: outset;
+  border-color: blue;
+}
+.recipe{
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  border-style:outset;
+  border-color: azure;
+  background-color: lightblue;
+}
+
+.cereal, .mac, .lasagna{
+  height: auto;
+  height: 250px;
+}
+.descriptionandtext{
+  color:rgb(179, 171, 99)
+
+}
+
+h3, h4,{
+  text-align: center;
+  border-style: outset;
+  border-color: antiquewhite;
+  background-color:aliceblue;
+  color: chocolate;
+}
+h1, h2, h4, h3{
+  color: brown;
+}
+.longtext{
+  color:rgb(179, 171, 99)
+}
